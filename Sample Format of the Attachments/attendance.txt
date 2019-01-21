@@ -1,0 +1,22 @@
++-------+------------------------------------------------------+------------------+---------+----------+-----------+
+| S_No. |                 Subject Name + Code                  | Tutorial+Lecture | Lecture | Tutorial | Practical |
++-------+------------------------------------------------------+------------------+---------+----------+-----------+
+|   1   |             ALGORITHMS LAB - 14B17CI472              |                  |         |          |    100    |
+|       |                                                      |                  |         |          |           |
+|   2   |            COMPUTER NETWORKS - 14B11CI611            |        75        |    77   |    66    |           |
+|       |                                                      |                  |         |          |           |
+|   3   |          COMPUTER NETWORKS LAB - 14B17CI671          |                  |         |          |    100    |
+|       |                                                      |                  |         |          |           |
+|   4   |            DIGITAL MARKETING - 17B11HS412            |        71        |    71   |          |           |
+|       |                                                      |                  |         |          |           |
+|   5   |       FUNDAMENTALS OF ALGORITHMS - 14B11CI412        |        77        |    71   |   100    |           |
+|       |                                                      |                  |         |          |           |
+|   6   |     MICROPROCESSORS AND CONTROLLERS - 14B11EC415     |        70        |    62   |   100    |           |
+|       |                                                      |                  |         |          |           |
+|   7   |   MICROPROCESSORS AND CONTROLLERS LAB - 14B17EC475   |                  |         |          |     66    |
+|       |                                                      |                  |         |          |           |
+|   8   | PROBABILITY THEORY AND RANDOM PROCESSES - 14B11MA411 |        80        |    85   |    66    |           |
+|       |                                                      |                  |         |          |           |
+|   9   |          UNIX PROGRAMMING LAB - 14B17CI473           |                  |         |          |    100    |
+|       |                                                      |                  |         |          |           |
++-------+------------------------------------------------------+------------------+---------+----------+-----------+
